@@ -1,0 +1,11 @@
+ABC 60.0 100
+XYZ 75.5 120
+LMN 100.0 400
+Innovators 70.0 150
+Bright 85.5 1300
+LampMasters 110.0 350
+SunshineLamps 65.0 150
+Camera 80.5 666
+Camera 66.5 710
+Crag 74.2 750
+joptionpane 22.5 180

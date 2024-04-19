@@ -1,0 +1,31 @@
+10
+potato
+Belarus
+2
+apple
+America
+5
+grapes
+Belarus
+7
+orange
+China
+10
+potato
+Russia
+5
+banana
+Brazil
+3
+pineapple
+Costa Rica
+6
+strawberry
+United Kingdom
+4
+watermelon
+Mexico
+8
+carrot
+France
+3

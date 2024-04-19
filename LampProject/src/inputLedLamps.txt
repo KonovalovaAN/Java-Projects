@@ -1,0 +1,11 @@
+azbuka 65.0 150
+aaarka 15.5 100
+susi 100.0 500
+orsala 90.0 150
+hunter 85.5 1300
+casters 190.0 85
+Sunshine 68.0 150
+Cut 80.5 66
+Cut 55.5 70
+Ciosk 845.5 166
+Corka 75.2 75

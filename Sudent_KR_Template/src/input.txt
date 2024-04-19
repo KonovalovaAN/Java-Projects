@@ -1,0 +1,4 @@
+Smith UniversityA 85.5 3
+Johnson HighSchoolB 92 2 A
+Williams UniversityB 78.2 2
+Brown HighSchoolA 88.7 3 B
